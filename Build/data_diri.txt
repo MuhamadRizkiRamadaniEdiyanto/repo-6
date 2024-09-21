@@ -1,4 +1,7 @@
-nama  : salman nurizal
+Nama  : Salman Nurizal
 kelas : IF C 2022 
-npm   : 552012207
+Npm   : 552012207
 
+Nama  : Muhamad Rizki Ramadani Ediyanto
+kelas : IF C 2022 
+Npm   : 5520122073
