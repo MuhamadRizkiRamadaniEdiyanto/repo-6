@@ -1,0 +1,4 @@
+nama  : salman nurizal
+kelas : IF C 2022 
+npm   : 552012207
+
